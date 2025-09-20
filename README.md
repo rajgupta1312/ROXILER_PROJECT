@@ -1,8 +1,8 @@
- ⭐ Store Rating Platform
+### ⭐ Store Rating Platform
 
 A full-stack web application where users can register, log in, browse stores, and submit ratings (1–5). The platform includes three roles: **System Administrator**, **Normal User**, and **Store Owner**, each with role-specific dashboards and functionalities.
 
- 🚀 Tech Stack
+ ###🚀 Tech Stack
 
 * **Frontend:** React.js + TailwindCSS / Material UI
 * **Backend:** Express.js (Node.js)
@@ -10,9 +10,9 @@ A full-stack web application where users can register, log in, browse stores, an
 * **Authentication:** JWT (JSON Web Tokens)
 * **ORM:** Sequelize / Prisma
 
- 🔑 Features
+ ###🔑 Features
 
-# System Administrator
+### System Administrator
 
 * Add new stores, users (normal/admin).
 * Dashboard showing:
@@ -24,7 +24,7 @@ A full-stack web application where users can register, log in, browse stores, an
 * View store list with ratings.
 * View user details with role (and ratings if Store Owner).
 
-# Normal User
+### Normal User
 
 * Sign up & login.
 * Update password.
@@ -34,7 +34,7 @@ A full-stack web application where users can register, log in, browse stores, an
 
   * Name, Address, Overall Rating, User’s Submitted Rating.
 
-# Store Owner
+### Store Owner
 
 * Login & update password.
 * Dashboard with:
@@ -44,7 +44,7 @@ A full-stack web application where users can register, log in, browse stores, an
 
 ---
 
-# 🗂 Database Schema
+### 🗂 Database Schema
 
 ### Users Table
 
