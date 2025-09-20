@@ -1,8 +1,8 @@
-### ⭐ Store Rating Platform
+# ⭐ Store Rating Platform
 
 A full-stack web application where users can register, log in, browse stores, and submit ratings (1–5). The platform includes three roles: **System Administrator**, **Normal User**, and **Store Owner**, each with role-specific dashboards and functionalities.
 
- ###🚀 Tech Stack
+## 🚀 Tech Stack
 
 * **Frontend:** React.js + TailwindCSS / Material UI
 * **Backend:** Express.js (Node.js)
@@ -10,7 +10,9 @@ A full-stack web application where users can register, log in, browse stores, an
 * **Authentication:** JWT (JSON Web Tokens)
 * **ORM:** Sequelize / Prisma
 
- ###🔑 Features
+---
+
+## 🔑 Features
 
 ### System Administrator
 
@@ -44,7 +46,7 @@ A full-stack web application where users can register, log in, browse stores, an
 
 ---
 
-### 🗂 Database Schema
+## 🗂 Database Schema
 
 ### Users Table
 
@@ -119,6 +121,8 @@ npm install
 npm start
 ```
 
+---
+
 ## 🔐 Form Validations
 
 * **Name:** 20–60 characters.
@@ -126,21 +130,29 @@ npm start
 * **Password:** 8–16 characters, 1 uppercase, 1 special character.
 * **Email:** must be valid.
 
+---
+
 ## 📊 Dashboards
 
 * **Admin Dashboard:** total users, stores, ratings.
 * **User Dashboard:** browse/search stores, rate them.
 * **Store Owner Dashboard:** see store ratings & average score.
-* 
+
+---
+
 ## 🎨 UI/UX
 
 * Fully responsive design.
 * Beautiful store & user listings with sorting (ascending/descending).
 * Creative use of TailwindCSS / Material UI components.
-* 
+
+---
+
+
 ## 📜 License
 
 This project is licensed under the MIT License.
 
+---
 
 Do you also want me to create a **project folder structure + sample code snippets** (so you can zip and submit directly)?
